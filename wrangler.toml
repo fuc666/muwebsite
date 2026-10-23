@@ -1,0 +1,9 @@
+name = "muwebsite"
+compatibility_date = "2026-01-01"
+
+[assets]
+directory = "."
+
+[[kv_namespaces]]
+binding = "BLOG_KV"
+id = "你的KV数据库ID"
